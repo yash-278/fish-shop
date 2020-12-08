@@ -1,3 +1,48 @@
+.navbar-nav > li {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.header {
+  background-image: url("./images/agro-banner.jpg");
+  /* margin: 0; */
+  padding: 0;
+  background-size: cover;
+  height: 350px;
+  color: white;
+}
+
+.title-container {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+}
+
+.main-title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.main-subtitle {
+  font-family: "Lato", sans-serif;
+  font-size: 1rem;
+}
+
 .cover {
   object-fit: cover !important;
 }
