@@ -967,7 +967,7 @@ ul.pagination .active a {
 .hero-area .content-block h1,
 .hero-area-2 .content-block h1 {
   color: #fff;
-  font-size: 65px;
+  font-size: 55px;
   font-weight: bold;
   letter-spacing: 0.05em;
   margin-bottom: 15px;
@@ -2930,7 +2930,7 @@ form textarea {
 /* Logo-Bottom */
 .logo-bottom {
   object-fit: contain;
-  width: 50%;
+  width: 60%;
 }
 
 /* Button */
