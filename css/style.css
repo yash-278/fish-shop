@@ -2864,6 +2864,21 @@ form textarea {
   object-fit: contain;
 }
 
+.passionContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2em 0;
+}
+
+#carouselExampleControls2 {
+  width: 40%;
+}
+
+.passionVideo {
+  width: 55%;
+}
+
 @media (max-width: 990px) {
   .info-1 {
     flex-direction: column;
@@ -2879,6 +2894,20 @@ form textarea {
   }
   .info-1 p {
     font-size: 17px;
+  }
+
+  .passionContainer {
+    display: block;
+    padding: 1em;
+  }
+
+  #carouselExampleControls2 {
+    width: 100%;
+  }
+
+  .passionVideo {
+    width: 100%;
+    margin: 1em 0;
   }
 }
 
