@@ -1,0 +1,20 @@
+<div class='carousel-item' data-interval='2000'>
+          <a data-toggle=lightbox data-gallery=gallery-passion href='./images/passionFruitCarousel/passion-1.jpg'>
+            <img src='./images/passionFruitCarousel/passion-1.jpg' class='d-block w-100' alt='...'/>
+          </a>
+        </div>
+<div class='carousel-item' data-interval='2000'>
+          <a data-toggle=lightbox data-gallery=gallery-passion href='./images/passionFruitCarousel/passion-2.jpg'>
+            <img src='./images/passionFruitCarousel/passion-2.jpg' class='d-block w-100' alt='...'/>
+          </a>
+        </div>
+<div class='carousel-item' data-interval='2000'>
+          <a data-toggle=lightbox data-gallery=gallery-passion href='./images/passionFruitCarousel/passion-3.jpg'>
+            <img src='./images/passionFruitCarousel/passion-3.jpg' class='d-block w-100' alt='...'/>
+          </a>
+        </div>
+<div class='carousel-item' data-interval='2000'>
+          <a data-toggle=lightbox data-gallery=gallery-passion href='./images/passionFruitCarousel/passion-4.jpg'>
+            <img src='./images/passionFruitCarousel/passion-4.jpg' class='d-block w-100' alt='...'/>
+          </a>
+        </div>

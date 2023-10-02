@@ -2871,6 +2871,18 @@ form textarea {
   padding: 2em 0;
 }
 
+.pomegranate {
+  padding: 2em 0;
+}
+
+.carousel-inner {
+  max-height: 100vh;
+}
+
+#carouselExampleControls3 .carousel-item {
+  object-fit: cover;
+}
+
 #carouselExampleControls2 {
   width: 40%;
 }
